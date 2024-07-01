@@ -1,0 +1,4 @@
+Only ideas at this point.
+
+format:
+Name / Types or Arity / Potential Symbols / Description
